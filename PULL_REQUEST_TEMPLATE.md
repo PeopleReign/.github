@@ -13,5 +13,6 @@
 - ⛓ Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - 🔐 Security/Vulnerability remediation (fix for a security issue - usually surfaced by Vanta)
 - ⚙️  Configuration (feature flag, environment variable setting, chart change)
+- 📝 Documentation (README.md, in-line comments, diagrams)
 
 ## Screenshots (if appropriate):
